@@ -7,4 +7,5 @@
 
 **Currently:** Open to SDE opportunities | Building innovative projects
 
+🌐 **Check out:** [Portfolio](portfolio.aastikn.tech) | [Blog](blog.aastikn.tech)  
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/aastik-narang) | aastik839@gmail.com
