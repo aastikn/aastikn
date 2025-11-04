@@ -6,5 +6,5 @@
 
 **Currently:** Open to SDE opportunities | Building innovative projects
 
-🌐 **Check out:** [Portfolio](https://aastikn.github.io/portfolio-basic/landing.html) | [Blog](https://aastikn.github.io/blog/)  | [Resume](https://github.com/aastikn/resume-version-control/blob/main/resume-latest.pdf)
+🌐 **Check out:** [Portfolio](https://aastikn.github.io/portfolio-basic/) | [Blog](https://aastikn.github.io/blog/)  | [Resume](https://github.com/aastikn/resume-version-control/blob/main/resume-latest.pdf)
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/aastik-narang) | aastik839@gmail.com
